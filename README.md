@@ -27,6 +27,17 @@ The agents must get an average score of +30 (over 100 consecutive episodes, and 
 
 After each episode, Rewards are added up that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. This yields an average score for each episode (where the average is over all 20 agents).
 
+### Udacity Project Review
+
+Meets Specifications
+Dear Udacian,
+
+Great job getting acquainted with the Deep Deterministic Policy Gradients algorithm and implementing it to successfully solve the Reacher environment. The implementation is pretty good and the agent achieves an average score of +36 from 37 to 136 episodes. The architectures used for the actor and critic networks are good in size with two hidden layers each. Good work using relu and leaky_relu activations in the actor and critic networks, respectively. The report is extremely informative and covers all the important aspects of the implementation. :smile:
+
+I would suggest you to go through Deep Reinforcement Learning for Self Driving Car by MIT. You'd get to know more about reinforcement learning algorithms in broader and real-world perspective and, more importantly, how to apply these techniques to real-world problems.
+
+All the best for future endeavors. :sparkles:
+
 ### Getting started
 
 
