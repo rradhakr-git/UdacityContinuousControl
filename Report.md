@@ -39,12 +39,12 @@ WEIGHT_DECAY = 0   # L2 weight decay
 
 ### Plot of the scores (Results)
 
-<img src="https://github.com/rradhakr-git/UdacityContinousControl/blob/main/ContinousControl.png?raw=true" />
+<img src="https://github.com/rradhakr-git/UdacityContinuousControl/blob/main/ContinuousControl.png?raw=true"/>
 
 
 ### Future Work
 
  I wanted to get comfortable in adopting the elegant modular implementation of prof ShangtongZhang and try PPO along with DDPG. 
  
- I also want to comfortable with building the unity environment in my own setup. I was not successful when I started doing that before getting back into 
+ I also want to get comfortable with building the unity environment in my own setup. I was not successful when I started doing that before getting back into 
  Udacity lab. 
