@@ -2,15 +2,12 @@
 Udacity Reinforcement Learning - project 2 - Continuous Control
 
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
-
 # Project 2: Continuous Control
 
 ### Introduction
 
 For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  It uses rich simulation environments from Unity ML-Agents.
 
-![Trained Agent][image1]
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
