@@ -6,7 +6,7 @@ Udacity Reinforcement Learning - project 2 - Continuous Control
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  It uses rich simulation environments from Unity ML-Agents.
+For this project, you will train an agent to navigate in a large, square world.  It uses rich simulation environments from Unity ML-Agents.
 
 <img src="https://github.com/rradhakr-git/UdacityDRLBanana/blob/main/reacher.gif?raw=true" />
 
